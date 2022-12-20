@@ -54,5 +54,24 @@ Azure health bot functionality test in webchat:
 
 # Project ScreenShots:
 
+![Life Home page](https://user-images.githubusercontent.com/120558949/208651308-662b92c8-aaa1-4571-9e00-5c175d1130c5.png)
+
+![Life about project page](https://user-images.githubusercontent.com/120558949/208651338-38a275b4-4e16-45d5-8223-9cc049af9c6a.png)
+
+![Life blog page](https://user-images.githubusercontent.com/120558949/208651354-d74153e8-cf87-4286-9ea3-7bc5bdc08129.png)
+
+![Life Contact page](https://user-images.githubusercontent.com/120558949/208651373-09db8401-4ea6-4670-bc62-46d9505fd83b.png)
+
+![Life health bot funtionality1](https://user-images.githubusercontent.com/120558949/208651403-45b88b6f-3585-471a-8559-0b1f6673de52.png)
+
+![life healthbot funtionality2](https://user-images.githubusercontent.com/120558949/208651441-988be087-7f1d-40a9-a4b7-0c28d1fa4f5c.png)
+
+![Life health bot functionality3](https://user-images.githubusercontent.com/120558949/208651482-c0d54936-fe7d-48ca-a967-62d6c20c3c86.png)
+
+![Life healthbot functionality4](https://user-images.githubusercontent.com/120558949/208651510-9fed3e14-fecd-411a-8770-cacbbeed8cd1.png)
+
+![Life healthbot functionality5](https://user-images.githubusercontent.com/120558949/208651528-fd55a8b0-455f-44d7-bfa6-83f438d1dcd9.png)
+
+![Life health bot fucntionality6](https://user-images.githubusercontent.com/120558949/208651568-612c5c46-e915-41ca-ac25-cac1f1e3f3e2.png)
 
 
